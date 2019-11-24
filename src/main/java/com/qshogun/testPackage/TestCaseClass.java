@@ -1,11 +1,10 @@
-package com.qshogun.testPackage;
+package com.qshogun.tests;
 
-import com.qshogun.uiPackage.LoginPage;
-import org.junit.Assert;
+import com.qshogun.userinterface.LoginPage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
-import static com.qshogun.testPackage.DataClass.*;
+import static com.qshogun.tests.DataClass.*;
 
 public class TestCaseClass extends HelperClass {
 

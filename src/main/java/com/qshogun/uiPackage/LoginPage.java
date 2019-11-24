@@ -1,4 +1,4 @@
-package com.qshogun.uiPackage;
+package com.qshogun.userinterface;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

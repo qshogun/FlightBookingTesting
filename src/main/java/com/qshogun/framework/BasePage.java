@@ -1,4 +1,4 @@
-package com.qshogun.frameworkPackage;
+package com.qshogun.framework;
 
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -8,11 +8,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class BrowserFactory {
+public class BasePage {
 
     public static WebDriver driver;
 
-    public BrowserFactory() {
+    public BasePage() {
 
     }
 

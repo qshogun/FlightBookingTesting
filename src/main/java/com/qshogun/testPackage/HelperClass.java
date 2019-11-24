@@ -1,4 +1,4 @@
-package com.qshogun.testPackage;
+package com.qshogun.tests;
 
 import com.qshogun.frameworkPackage.BrowserFactory;
 import org.openqa.selenium.WebDriver;

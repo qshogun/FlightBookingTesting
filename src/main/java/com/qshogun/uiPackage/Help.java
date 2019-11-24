@@ -1,4 +1,4 @@
-package com.qshogun.uiPackage;
+package com.qshogun.userinterface;
 
 public class Help {
     //FlightFinderPage web elements xpaths

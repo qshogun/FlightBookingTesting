@@ -1,4 +1,4 @@
-package com.qshogun.uiPackage;
+package com.qshogun.userinterface;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-import static com.qshogun.uiPackage.Help.logoutButtonXpath;
+import static com.qshogun.userinterface.Help.logoutButtonXpath;
 
 public class FlightConfirmationPage {
 

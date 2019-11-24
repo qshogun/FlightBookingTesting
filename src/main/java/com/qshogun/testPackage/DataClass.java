@@ -1,4 +1,4 @@
-package com.qshogun.testPackage;
+package com.qshogun.tests;
 
 public class DataClass {
 
