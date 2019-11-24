@@ -1,6 +1,6 @@
 package com.qshogun.testPackage;
 
-import com.qshogun.frameworkPackage.BrowserFactory;
+import com.qshogun.framework.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.*;
 
@@ -25,7 +25,7 @@ public class HelperClass {
     @BeforeMethod
     public void beforeMethodClass() {
         System.out.println("in @BeforeMethod");
-        HelperClass.driver = BrowserFactory.getDriver("chrome");
+        HelperClass.driver = BasePage.getDriver("chrome");
     }
 
     @AfterMethod
