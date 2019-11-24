@@ -1,6 +1,6 @@
-package com.qshogun.testPackage;
+package com.qshogun.tests;
 
-import com.qshogun.framework.BasePage;
+import com.qshogun.common.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.*;
 
